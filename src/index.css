@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.result {
+  color: #389e0d
+}
+
+.input {
+  color: #1890ff
+}
