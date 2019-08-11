@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/live-doc-demo/static/css/main.6ffb3f2b.chunk.css",
+    "main.js": "/live-doc-demo/static/js/main.a44e7d1e.chunk.js",
+    "main.js.map": "/live-doc-demo/static/js/main.a44e7d1e.chunk.js.map",
+    "runtime~main.js": "/live-doc-demo/static/js/runtime~main.693dc1b3.js",
+    "runtime~main.js.map": "/live-doc-demo/static/js/runtime~main.693dc1b3.js.map",
+    "static/css/2.93e9ecf4.chunk.css": "/live-doc-demo/static/css/2.93e9ecf4.chunk.css",
+    "static/js/2.5ea288ae.chunk.js": "/live-doc-demo/static/js/2.5ea288ae.chunk.js",
+    "static/js/2.5ea288ae.chunk.js.map": "/live-doc-demo/static/js/2.5ea288ae.chunk.js.map",
+    "index.html": "/live-doc-demo/index.html",
+    "precache-manifest.4d319f18036760aeb1024bfe07389628.js": "/live-doc-demo/precache-manifest.4d319f18036760aeb1024bfe07389628.js",
+    "service-worker.js": "/live-doc-demo/service-worker.js",
+    "static/css/2.93e9ecf4.chunk.css.map": "/live-doc-demo/static/css/2.93e9ecf4.chunk.css.map",
+    "static/css/main.6ffb3f2b.chunk.css.map": "/live-doc-demo/static/css/main.6ffb3f2b.chunk.css.map",
+    "static/media/logo.svg": "/live-doc-demo/static/media/logo.5d5d9eef.svg"
+  }
+}
